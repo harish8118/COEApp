@@ -1,0 +1,6 @@
+framework module Pods_COEAppTests {
+  umbrella header "Pods-COEAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

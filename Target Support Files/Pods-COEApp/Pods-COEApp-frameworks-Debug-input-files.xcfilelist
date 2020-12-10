@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-COEApp/Pods-COEApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/RSLoadingView/RSLoadingView.framework
+${BUILT_PRODUCTS_DIR}/SpreadsheetView/SpreadsheetView.framework

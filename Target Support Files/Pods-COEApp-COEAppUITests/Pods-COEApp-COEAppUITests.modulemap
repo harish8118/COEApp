@@ -1,0 +1,6 @@
+framework module Pods_COEApp_COEAppUITests {
+  umbrella header "Pods-COEApp-COEAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
